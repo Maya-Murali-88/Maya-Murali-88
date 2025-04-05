@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Maya Murali!
+
+Welcome to my GitHub portfolio. I'm a former Software Engineer returning to tech after a career break, now passionate about Data Science, Machine Learning, and Generative AI.
+
+🎯 Currently Building:
+- MOM ai – A virtual assistant for mothers (React + FastAPI + Generative AI)
+
+📍 Based in: Australia 🇦🇺  
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/mayamurali) 
+
+
 
 <!--
 **Maya-Murali-88/Maya-Murali-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
